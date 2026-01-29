@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
-
+https://raw.kkgithub.com/Lei9008/iptv_api_1/main/output/live_ipv4.m3u
 
 
 [WHITELIST]
