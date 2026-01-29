@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 
-#https://github.com/Lei9008/iptv_api_1/blob/main/output/live_ipv4.m3u
+https://github.com/Lei9008/iptv_api_1/blob/main/output/live_ipv4.m3u
 #https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 #https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 #https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
