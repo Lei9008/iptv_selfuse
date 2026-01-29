@@ -2,8 +2,8 @@ name: 'Update schedule'
 
 on:
   schedule:
-    # 每3天UTC时间2:00执行（对应上海时间10:28）
-    - cron: '00 2 */3 * *'  
+    # 每3天UTC时间23:00执行（对应上海时间7:28）
+    - cron: '00 23 */3 * *'  
   workflow_dispatch:  # 允许手动触发
 
 jobs:
