@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Lei9008/iptv_selfuse/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1高清.png" group-title="🕘️更新时间",2026-01-30 23:01:14
+#EXTINF:-1 tvg-name="CCTV1高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1高清.png" group-title="🕘️更新时间",2026-01-31 00:37:37
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV1高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1高清.png" group-title="┃4K高清",CCTV-1高清
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
