@@ -13,20 +13,20 @@ jobs:
     runs-on: ubuntu-latest  # 直接指定运行环境，移除冗余的矩阵配置
     steps:
       # 步骤1名称：设置分支名称（根据仓库所有者自动切换gd/master分支）
-      - name: Set branch name
+      - name: Set branch name(设置分支名称)
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
         continue-on-error: false  # 分支名称设置失败则终止流程，避免后续无效操作
 
       # 步骤2名称：检出代码（拉取对应分支的仓库代码到运行环境）
-      - name: Checkout code
+      - name: Checkout code(检出代码)
         uses: actions/checkout@v3
         with:
           ref: ${{ env.BRANCH_NAME }}  # 检出自动切换后的分支
         continue-on-error: false
 
       # 步骤3名称：配置Python 3.13环境（搭建项目所需的Python运行环境，开启缓存优化）
-      - name: Setup Python 3.13
+      - name: Setup Python 3.13(配置Python 3.13环境)
         uses: actions/setup-python@v4
         with:
           python-version: '3.13'
@@ -35,7 +35,7 @@ jobs:
         continue-on-error: false
 
       # 步骤4名称：安装FFmpeg（安装音视频处理工具，满足项目可能的音视频操作需求）
-      - name: Install FFmpeg
+      - name: Install FFmpeg(安装FFmpeg)
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
         continue-on-error: false
 
@@ -50,12 +50,12 @@ jobs:
         continue-on-error: false
 
       # 步骤7名称：执行更新命令（运行项目的dev脚本，完成核心更新逻辑）
-      - name: Run update command
+      - name: Run update command(执行更新命令)
         run: pipenv run dev
         continue-on-error: false
 
       # 步骤8名称：提交并推送变更（如有变更，自动提交并推送至远程分支）
-      - name: Commit and push changes (if any)
+      - name: Commit and push changes (if any)(提交并推送变更)
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -68,7 +68,7 @@ jobs:
         continue-on-error: true  # 推送失败不终止后续清理步骤
 
       # 步骤9名称：清理旧的Workflow运行记录（清理冗余运行记录，仅保留最近5条）
-      - name: 清理旧的Workflow运行记录
+      - name: Clear the old Workflow run records(清理旧的Workflow运行记录)
         if: always()  # 无论前面步骤成功与否，都执行清理
         uses: Mattraks/delete-workflow-runs@v2
         with:
