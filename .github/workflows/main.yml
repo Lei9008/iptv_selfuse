@@ -1,5 +1,5 @@
 # 工作流名称：1.更新调度（定时+手动触发）
-name: '1.Update schedule'
+name: '1.Update schedule'(1.更新调度（定时+手动触发）)
 
 on:
   schedule:
