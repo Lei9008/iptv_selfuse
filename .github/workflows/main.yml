@@ -40,12 +40,12 @@ jobs:
         continue-on-error: false
 
       # 步骤5名称：安装pipenv（安装Python虚拟环境和依赖管理工具pipenv）
-      - name: Install pipenv
+      - name: Install pipenv(安装pipenv工具)
         run: pip3 install --user pipenv
         continue-on-error: false
 
       # 步骤6名称：安装项目依赖（基于pipenv创建虚拟环境并部署项目所需依赖）
-      - name: Install dependencies
+      - name: Install dependencies(安装项目依赖)
         run: pipenv --python 3.13 && pipenv install --deploy
         continue-on-error: false
 
@@ -63,7 +63,10 @@ jobs:
           # 仅当有暂存变更时才提交和推送
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
-            git push  # 替换强制推送，降低代码覆盖风险
+            # 新增：先拉取远程最新变更（变基方式，保持提交历史整洁），解决本地落后远程的推送拒绝问题
+            git pull --rebase origin ${{ env.BRANCH_NAME }}
+            # 再推送整合后的变更
+            git push
           fi
         continue-on-error: true  # 推送失败不终止后续清理步骤
 
