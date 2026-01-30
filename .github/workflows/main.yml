@@ -3,9 +3,9 @@ name: '1.Update schedule'
 
 on:
   schedule:
-    # 每3天UTC时间23:00执行（对应上海时间次日7:00）
-    # cron 格式：分 时 日 月 周，*/3 表示每3天
-    - cron: '0 23 */3 * *'  
+    # 每2天UTC时间00:00执行（对应上海时间次日8:00）
+    # cron 格式：分 时 日 月 周，*/2 表示每2天
+    - cron: '0 0 */2 * *'  
   workflow_dispatch:  # 允许手动触发（支持在GitHub页面手动点击运行）
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
           ref: ${{ env.BRANCH_NAME }}  # 检出自动切换后的分支
         continue-on-error: false
 
-      # 步骤3名称：配置Python 3.13环境（搭建项目所需的Python运行环境，开启缓存优化）
+      # 步骤3名称：配置Python 3.13环境（搭建项目所需的Python运行环境，开启缓存优化2
       - name: Setup Python 3.13(配置Python 3.13环境)
         uses: actions/setup-python@v4
         with:
