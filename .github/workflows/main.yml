@@ -42,3 +42,14 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+
+      - name: 清理旧的Workflow运行记录
+        if: always()
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          keep_minimum_runs: 5  # 保留最近3条运行记录
+          retain_days: 0        # 保留7天内的运行记录
+          ignore_error: true    # 忽略清理错误
+
