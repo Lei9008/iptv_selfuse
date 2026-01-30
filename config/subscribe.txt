@@ -29,21 +29,17 @@ https://github.com/0610840119/iptv-api/blob/master/output/xp_result.m3u
 https://bc.188766.xyz/?url=https://live.iill.top&mishitong=true&mima=mianfeibuhuaqian
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt
 https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u
-https://cloud.7so.top/f/xv80ux/天浪.txt
-https://cloud.7so.top/f/yr7BHL/HKTV.txt
 https://gitee.com/main-stream/tv/raw/master/BOSS.json
 https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt
 http://gg.7749.org//i/ds.txt
 https://gitee.com/alexkw/app/raw/master/kgk.txt
 https://d.kstore.dev/download/15114/HKTV.txt
-http://gg.7749.org/z/i/gdss.txt
 https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u
 https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt
 https://bc.188766.xyz/?url=http://tv123.top:35455&mishitong=true&mima=bingchawusifengxian
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/gqds+.txt
 https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt
 https://live.izbds.com/tv/iptv4.txt
-http://rihou.cc:555/gggg.nzk
 http://1.94.31.214/live/livelite.txt
 http://lisha521.dynv6.net.fh4u.org/tv.txt
 https://iptv.catvod.com/tv.m3u
@@ -53,27 +49,16 @@ https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
-https://github.com/xisohi/CHINA-IPTV/blob/main/Multicast/shandong/unicom.txt
-https://live.zbds.top/tv/iptv6.txt
 https://github.com/zhi35/iptv/blob/master/iptv.m3u
 https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
-https://m3u.ibert.me/txt/y_g.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
-http://tot.totalh.net/tttt.txt
+
 
 
 
