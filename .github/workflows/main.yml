@@ -6,7 +6,7 @@ on:
     # 每2天UTC时间23:00执行（对应上海时间次日7:00）
     # cron 格式：分 时 日 月 周，*/2 表示每2天
     #- cron: '0 23 */2 * *'  
-    - cron: '0 */1 * * *'  
+    - cron: '*/2 * * * *'  
   workflow_dispatch:  # 允许手动触发（支持在GitHub页面手动点击运行）
 env:
   TZ: Asia/Shanghai  # 设置时区为上海
