@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/访问被拦截！中文English访问被拦截！中文English418您的请求疑似攻击行为！事件ID：34-dect-39-20260708025101-e19321c9如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://113.95.132.166:554/rtp/239.77.0.119:5146
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CCTV1.png" group-title="央视频道",CCTV1

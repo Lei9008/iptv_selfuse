@@ -3,92 +3,92 @@
 CCTV1综合,http://mg.cttv.vip/608807420
 CCTV1综合,http://17752995.xyz:51111/608807420
 CCTV1综合,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8
-CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV1综合,http://iptv.cqshushu.com/ysws.php?id=cctv1
 
 CCTV2财经,http://mg.cttv.vip/631780532
 CCTV2财经,http://17752995.xyz:51111/631780532
 CCTV2财经,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
-CCTV2财经,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV2财经,http://iptv.cqshushu.com/ysws.php?id=cctv2
 
 CCTV3综艺,http://mg.cttv.vip/624878271
 CCTV3综艺,http://17752995.xyz:51111/624878271
 CCTV3综艺,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8
-CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV3综艺,http://iptv.cqshushu.com/ysws.php?id=cctv3
 
 CCTV4中文国际,http://mg.cttv.vip/631780421
 CCTV4中文国际,http://17752995.xyz:51111/631780421
 CCTV4中文国际,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8
-CCTV4中文国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV4中文国际,http://iptv.cqshushu.com/ysws.php?id=cctv4
 
 CCTV5体育,http://mg.cttv.vip/641886683
 CCTV5体育,http://17752995.xyz:51111/641886683
 CCTV5体育,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
-CCTV5体育,http://119.136.88.81:5140/IPTV-央视/CCTV-5高清
+CCTV5体育,http://218.13.148.152:5140/IPTV-央视/CCTV-5
 
 CCTV6电影,http://mg.cttv.vip/624878396
 CCTV6电影,http://17752995.xyz:51111/624878396
 CCTV6电影,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6
-CCTV6电影,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV6电影,http://iptv.cqshushu.com/ysws.php?id=cctv6
 
 CCTV7军农,http://mg.cttv.vip/673168121
 CCTV7军农,http://17752995.xyz:51111/673168121
 CCTV7军农,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
-CCTV7军农,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV7军农,http://iptv.cqshushu.com/ysws.php?id=cctv7
 
 CCTV8电视剧,http://mg.cttv.vip/624878356
 CCTV8电视剧,http://17752995.xyz:51111/624878356
 CCTV8电视剧,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8
-CCTV8电视剧,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+CCTV8电视剧,http://iptv.cqshushu.com/ysws.php?id=cctv8
 
 CCTV9纪录,http://mg.cttv.vip/673168140
 CCTV9纪录,http://17752995.xyz:51111/673168140
 CCTV9纪录,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
-CCTV9纪录,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV9纪录,http://iptv.cqshushu.com/ysws.php?id=cctv9
 
 CCTV10科教,http://mg.cttv.vip/624878405
 CCTV10科教,http://17752995.xyz:51111/624878405
 CCTV10科教,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
-CCTV10科教,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+CCTV10科教,http://iptv.cqshushu.com/ysws.php?id=cctv10
 
 CCTV11戏曲,http://mg.cttv.vip/667987558
 CCTV11戏曲,http://17752995.xyz:51111/667987558
 CCTV11戏曲,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8
-CCTV11戏曲,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+CCTV11戏曲,http://iptv.cqshushu.com/ysws.php?id=cctv11
 
 CCTV12,http://mg.cttv.vip/673168185
 CCTV12,http://17752995.xyz:51111/673168185
 CCTV12,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
-CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+CCTV12,http://iptv.cqshushu.com/ysws.php?id=cctv12
 
 CCTV13新闻,http://mg.cttv.vip/608807423
 CCTV13新闻,http://17752995.xyz:51111/608807423
 CCTV13新闻,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
-CCTV13新闻,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+CCTV13新闻,http://iptv.cqshushu.com/ysws.php?id=cctv13
 
 CCTV14少儿,http://mg.cttv.vip/624878440
 CCTV14少儿,http://17752995.xyz:51111/624878440
 CCTV14少儿,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14
-CCTV14少儿,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+CCTV14少儿,http://iptv.cqshushu.com/ysws.php?id=cctv14
 
 CCTV15音乐,http://mg.cttv.vip/673168223
 CCTV15音乐,http://17752995.xyz:51111/673168223
 CCTV15音乐,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
-CCTV15音乐,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+CCTV15音乐,http://iptv.cqshushu.com/ysws.php?id=cctv15
 
 CCTV16,http://rihou.cc:555/tv/[mg]CCTV-16
 CCTV16,http://j.s.bkpcp.top/jj/cctv16
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV16,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv16&zy.m3u8
+CCTV16,http://iptv.cqshushu.com/ysws.php?id=cctv16
 
 CCTV17,http://mg.cttv.vip/673168256
 CCTV17,http://17752995.xyz:51111/673168256
 CCTV17,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
-CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV17,http://iptv.cqshushu.com/ysws.php?id=cctv17
 
 CCTV5+,http://mg.cttv.vip/641886773
 CCTV5+,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5p&zy.m3u8
 CCTV5+,http://17752995.xyz:51111/641886773
-CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5+hd.m3u8?auth=testpub
+CCTV5+,http://iptv.cqshushu.com/ysws.php?id=cctv5plus
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -146,27 +146,27 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 辽宁卫视,http://go.bkpcp.top/mg/lnws$咪咕源
 辽宁卫视,http://222.86.15.171:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=0c90580e8be097c73a218656168e35e6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山东卫视,http://iptv.cqshushu.com/ysws.php?id=sdws
 山东卫视,http://rihou.cc:555/tv/[mg]山东卫视
 山东卫视,http://go.bkpcp.top/mg/sdws$咪咕源
 山东卫视,http://222.86.15.171:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9c1ab264c5f51571ce8602454b157f37&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+黑龙江卫视,http://iptv.cqshushu.com/ysws.php?id=hlws
 黑龙江卫视,http://115.29.208.41:34567/gd.php?id=hljws&kl=www.9kds.com
 黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
 黑龙江卫视,http://222.86.15.171:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 
-深圳卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=szws
+深圳卫视,http://iptv.cqshushu.com/ysws.php?id=szws
 深圳卫视,http://61.178.227.57:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
 深圳卫视,http://198980.xyz:8888/rtp/239.49.8.145:6000
 
-湖北卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hubws
+湖北卫视,http://iptv.cqshushu.com/ysws.php?id=hbws
 湖北卫视,http://115.29.208.41:34567/gd.php?id=hbws&kl=www.9kds.com
 湖北卫视,http://go.bkpcp.top/mg/hubws$咪咕源
 湖北卫视,http://222.86.15.171:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 
-河北卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hbws
+河北卫视,http://iptv.cqshushu.com/ysws.php?id=hews
 河北卫视,http://115.29.208.41:34567/gd.php?id=hebws&kl=www.9kds.com
 河北卫视,http://k.061899.xyz/m.php?id=hbws 
 河北卫视,http://198980.xyz:8888/rtp/239.49.8.114:8000
@@ -176,87 +176,87 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 贵州卫视,http://go.bkpcp.top/mg/gzws$咪咕源
 贵州卫视,http://222.86.15.171:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
-东南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=dnws
+东南卫视,http://iptv.cqshushu.com/ysws.php?id=dnws
 东南卫视,http://115.29.208.41:34567/gd.php?id=dnws&kl=www.9kds.com
 东南卫视,http://go.bkpcp.top/mg/dnws$咪咕源
 东南卫视,http://198980.xyz:8888/rtp/239.49.8.112:8000
 
-广东卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=gdws
+广东卫视,http://iptv.cqshushu.com/ysws.php?id=gdws
 广东卫视,http://rihou.cc:555/tv/[mg]广东卫视
 广东卫视,http://go.bkpcp.top/mg/gdws$咪咕源
 广东卫视,http://222.86.15.171:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 
-青海卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=qhws
+青海卫视,http://iptv.cqshushu.com/ysws.php?id=qhws
 青海卫视,http://61.178.227.57:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://go.bkpcp.top/mg/qhws$咪咕源
 青海卫视,http://198980.xyz:8888/rtp/239.49.0.81:8000
 
-西藏卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=xzws
+西藏卫视,http://iptv.cqshushu.com/ysws.php?id=xzws
 西藏卫视,http://61.178.227.57:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://go.bkpcp.top/mg/xzws$咪咕源
 西藏卫视,http://198980.xyz:8888/rtp/239.49.1.56:8000
 
-内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
+内蒙古卫视,http://iptv.cqshushu.com/ysws.php?id=nmws
 内蒙古卫视,http://106.115.24.3:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://go.bkpcp.top/mg/nmws$咪咕源
 内蒙古卫视,http://119.91.7.169:2026/ysws.php?id=内蒙古卫视
 
-新疆卫视,http://go.bkpcp.top/mg/xjws
+新疆卫视,http://iptv.cqshushu.com/ysws.php?id=xjws
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 新疆卫视,http://go.bkpcp.top/mg/xjws$咪咕源
 新疆卫视,http://198980.xyz:8888/rtp/239.49.1.57:8000
 
-兵团卫视,http://go.bkpcp.top/mg/btws
+兵团卫视,http://iptv.cqshushu.com/ysws.php?id=btws
 兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
 兵团卫视,http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://198980.xyz:8888/rtp/239.49.1.58:8000
 
-甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
+甘肃卫视,http://iptv.cqshushu.com/ysws.php?id=gsws
 甘肃卫视,http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://go.bkpcp.top/mg/gsws$咪咕源
 甘肃卫视,http://198980.xyz:8888/rtp://239.49.0.250:8000
 
-宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
+宁夏卫视,http://iptv.cqshushu.com/ysws.php?id=nxws
 宁夏卫视,http://115.29.208.41:34567/gd.php?id=nxws&kl=www.9kds.com
 宁夏卫视,http://go.bkpcp.top/mg/nxws$咪咕源
 宁夏卫视,http://198980.xyz:8888/rtp://239.49.1.60:8000
 
-广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
+广西卫视,http://iptv.cqshushu.com/ysws.php?id=gxws
 广西卫视,http://115.29.208.41:34567/gd.php?id=gxws&kl=www.9kds.com
 广西卫视,http://go.bkpcp.top/mg/gxws$咪咕源
 广西卫视,http://198980.xyz:8888/rtp/239.49.8.10:8000
 
-四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
+四川卫视,http://iptv.cqshushu.com/ysws.php?id=scws
 四川卫视,http://115.29.208.41:34567/gd.php?id=scws&kl=www.9kds.com
 四川卫视,http://go.bkpcp.top/mg/scws$咪咕源
 四川卫视,http://198980.xyz:8888/rtp/239.49.8.110:8000
 
-东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
+东方卫视,http://iptv.cqshushu.com/ysws.php?id=dfws
 东方卫视,http://115.29.208.41:34567/gd.php?id=dfws&kl=www.9kds.com
 东方卫视,http://go.bkpcp.top/mg/dfws$咪咕源
 东方卫视,http://198980.xyz:8888/rtp/239.49.8.140:6000
 
-吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+吉林卫视,http://iptv.cqshushu.com/ysws.php?id=jlws
 吉林卫视,http://61.178.227.57:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://go.bkpcp.top/mg/jlws$咪咕源
 吉林卫视,http://198980.xyz:8888/rtp/239.49.8.113:8000
 
-江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
+江西卫视,http://iptv.cqshushu.com/ysws.php?id=jxws
 江西卫视,http://115.29.208.41:34567/gd.php?id=jxws&kl=www.9kds.com
 江西卫视,http://go.bkpcp.top/mg/jxws$咪咕源
 江西卫视,http://198980.xyz:8888/rtp/239.49.8.111:8000
 
-河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
+河南卫视,http://iptv.cqshushu.com/ysws.php?id=haws
 河南卫视,http://115.29.208.41:34567/gd.php?id=henws&kl=www.9kds.com
 河南卫视,http://go.bkpcp.top/mg/hnws$咪咕源
 河南卫视,http://198980.xyz:8888/rtp/239.49.8.29:8000
 
-重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+重庆卫视,http://iptv.cqshushu.com/ysws.php?id=cqws
 重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://59.188.94.126:35455/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://198980.xyz:8888/rtp/239.49.8.149:6000
 
-云南卫视,http://go.bkpcp.top/mg/ynws
+云南卫视,http://iptv.cqshushu.com/ysws.php?id=ynws
 云南卫视,http://115.29.208.41:34567/gd.php?id=ynws&kl=www.9kds.com
 云南卫视,http://go.bkpcp.top/mg/ynws$咪咕源
 云南卫视,http://198980.xyz:8888/rtp/239.49.0.177:8000
@@ -266,12 +266,12 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 海南卫视,http://go.bkpcp.top/mg/hinws$咪咕源
 海南卫视,http://198980.xyz:8888/rtp/239.49.8.83:8000
 
-山西卫视,http://t.061899.xyz/tl/tl.php?id=sxiws
+山西卫视,http://iptv.cqshushu.com/ysws.php?id=sxws
 山西卫视,http://61.178.227.57:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://ds.shixd.cn:5957/udp/239.49.0.67:8528
 山西卫视,http://198980.xyz:8888/rtp/239.49.1.55:8000
 
-陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
+陕西卫视,http://iptv.cqshushu.com/ysws.php?id=snws
 陕西卫视,http://61.178.227.57:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://go.bkpcp.top/mg/sxws$咪咕源
 陕西卫视,http://119.91.7.169:2026/ysws.php?id=陕西卫视
