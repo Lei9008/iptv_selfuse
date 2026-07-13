@@ -118,5 +118,4 @@ CCTV-14
 
 影视频道,#genre#
 CHC动作电影
-CHC高清电影
 CHC家庭影院
