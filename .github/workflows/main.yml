@@ -13,7 +13,6 @@ name: '1.Update schedule'
 on:
 
   schedule:
-    # 每3天UTC时间23:00执行（对应上海时间次日7:00）
     # cron 格式：分 时 日 月 周，*/3 表示每3天
     - cron: '55 21 */3 * *'  
   
