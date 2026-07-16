@@ -39,6 +39,8 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
 https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
+
 
 
 
