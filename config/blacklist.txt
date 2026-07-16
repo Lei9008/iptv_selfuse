@@ -22,6 +22,7 @@ http://183.237.95.108:9901/tsfile/live
 http://129.211.14.102
 http://115.29.208.41
 
+http://bztv.tvbus.cc:8081
 
 https://t.freetv.fun/live/zhe-jiang-shao-er
 http://live.xmcdn.com/live
