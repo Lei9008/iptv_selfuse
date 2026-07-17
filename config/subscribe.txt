@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 https://wget.la/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx_lite.m3u
 https://raw.githubusercontent.com/alantang1977/yuanzl77/main/live.m3u
 https://raw.githubusercontent.com/alantang1977/IPTV-CCSH/main/live.txt
-
+https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.m3u
 
 
 
