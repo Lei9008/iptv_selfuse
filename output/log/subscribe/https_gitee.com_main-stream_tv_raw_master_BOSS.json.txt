@@ -186,87 +186,87 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 广东卫视,http://go.bkpcp.top/mg/gdws$咪咕源
 广东卫视,http://222.86.15.171:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 
-青海卫视,http://lsa.familyds.com:8188/udp/239.77.0.71:5146
+青海卫视,http://home.szjim.top:4000/udp/239.77.0.71:5146
 青海卫视,http://61.178.227.57:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://go.bkpcp.top/mg/qhws$咪咕源
 青海卫视,http://198980.xyz:8888/rtp/239.49.0.81:8000
 
-西藏卫视,http://lsa.familyds.com:8188/udp/239.77.0.74:5146
+西藏卫视,http://home.szjim.top:4000/udp/239.77.0.74:5146
 西藏卫视,http://61.178.227.57:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://go.bkpcp.top/mg/xzws$咪咕源
 西藏卫视,http://198980.xyz:8888/rtp/239.49.1.56:8000
 
-内蒙古卫视,http://lsa.familyds.com:8188/udp/239.77.0.70:5146
+内蒙古卫视,http://home.szjim.top:4000/udp/239.77.0.70:5146
 内蒙古卫视,http://106.115.24.3:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://go.bkpcp.top/mg/nmws$咪咕源
 内蒙古卫视,http://119.91.7.169:2026/ysws.php?id=内蒙古卫视
 
-新疆卫视,http://lsa.familyds.com:8188/udp/239.77.0.75:5146
+新疆卫视,http://home.szjim.top:4000/udp/239.77.0.75:5146
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 新疆卫视,http://go.bkpcp.top/mg/xjws$咪咕源
 新疆卫视,http://198980.xyz:8888/rtp/239.49.1.57:8000
 
-兵团卫视,http://lsa.familyds.com:8188/udp/239.77.0.77:5146
+兵团卫视,http://home.szjim.top:4000/udp/239.77.0.77:5146
 兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
 兵团卫视,http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://198980.xyz:8888/rtp/239.49.1.58:8000
 
-甘肃卫视,http://lsa.familyds.com:8188/udp/239.77.0.189:5146
+甘肃卫视,http://home.szjim.top:4000/udp/239.77.0.189:5146
 甘肃卫视,http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://go.bkpcp.top/mg/gsws$咪咕源
 甘肃卫视,http://198980.xyz:8888/rtp://239.49.0.250:8000
 
-宁夏卫视,http://lsa.familyds.com:8188/udp/239.77.0.73:5146
+宁夏卫视,http://home.szjim.top:4000/udp/239.77.0.73:5146
 宁夏卫视,http://115.29.208.41:34567/gd.php?id=nxws&kl=www.9kds.com
 宁夏卫视,http://go.bkpcp.top/mg/nxws$咪咕源
 宁夏卫视,http://198980.xyz:8888/rtp://239.49.1.60:8000
 
-广西卫视,http://lsa.familyds.com:8188/udp/239.253.43.36:5146
+广西卫视,http://home.szjim.top:4000/udp/239.253.43.36:5146
 广西卫视,http://115.29.208.41:34567/gd.php?id=gxws&kl=www.9kds.com
 广西卫视,http://go.bkpcp.top/mg/gxws$咪咕源
 广西卫视,http://198980.xyz:8888/rtp/239.49.8.10:8000
 
-四川卫视,http://lsa.familyds.com:8188/udp/239.77.0.159:5146
+四川卫视,http://home.szjim.top:4000/udp/239.77.0.159:5146
 四川卫视,http://115.29.208.41:34567/gd.php?id=scws&kl=www.9kds.com
 四川卫视,http://go.bkpcp.top/mg/scws$咪咕源
 四川卫视,http://198980.xyz:8888/rtp/239.49.8.110:8000
 
-东方卫视,http://lsa.familyds.com:8188/udp/239.77.1.218:5146
+东方卫视,http://home.szjim.top:4000/udp/239.77.1.218:5146
 东方卫视,http://115.29.208.41:34567/gd.php?id=dfws&kl=www.9kds.com
 东方卫视,http://go.bkpcp.top/mg/dfws$咪咕源
 东方卫视,http://198980.xyz:8888/rtp/239.49.8.140:6000
 
-吉林卫视,http://lsa.familyds.com:8188/udp/239.77.1.111:5146
+吉林卫视,http://home.szjim.top:4000/udp/239.77.1.111:5146
 吉林卫视,http://61.178.227.57:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://go.bkpcp.top/mg/jlws$咪咕源
 吉林卫视,http://198980.xyz:8888/rtp/239.49.8.113:8000
 
-江西卫视,http://lsa.familyds.com:8188/udp/239.77.1.219:5146
+江西卫视,http://home.szjim.top:4000/udp/239.77.1.219:5146
 江西卫视,http://115.29.208.41:34567/gd.php?id=jxws&kl=www.9kds.com
 江西卫视,http://go.bkpcp.top/mg/jxws$咪咕源
 江西卫视,http://198980.xyz:8888/rtp/239.49.8.111:8000
 
-河南卫视,http://lsa.familyds.com:8188/udp/239.77.1.229:5146
+河南卫视,http://home.szjim.top:4000/udp/239.77.1.229:5146
 河南卫视,http://115.29.208.41:34567/gd.php?id=henws&kl=www.9kds.com
 河南卫视,http://go.bkpcp.top/mg/hnws$咪咕源
 河南卫视,http://198980.xyz:8888/rtp/239.49.8.29:8000
 
-重庆卫视,http://lsa.familyds.com:8188/udp/239.77.1.162:5146
+重庆卫视,http://home.szjim.top:4000/udp/239.77.1.162:5146
 重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://59.188.94.126:35455/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://198980.xyz:8888/rtp/239.49.8.149:6000
 
-云南卫视,http://lsa.familyds.com:8188/udp/239.253.43.37:5146
+云南卫视,http://home.szjim.top:4000/udp/239.253.43.37:5146
 云南卫视,http://115.29.208.41:34567/gd.php?id=ynws&kl=www.9kds.com
 云南卫视,http://go.bkpcp.top/mg/ynws$咪咕源
 云南卫视,http://198980.xyz:8888/rtp/239.49.0.177:8000
 
-海南卫视,http://lsa.familyds.com:8188/udp/239.253.43.35:5146
+海南卫视,http://home.szjim.top:4000/udp/239.253.43.35:5146
 海南卫视,http://115.29.208.41:34567/gd.php?id=hanws&kl=www.9kds.com
 海南卫视,http://go.bkpcp.top/mg/hinws$咪咕源
 海南卫视,http://198980.xyz:8888/rtp/239.49.8.83:8000
 
-山西卫视,http://lsa.familyds.com:8188/udp/239.77.0.69:5146
+山西卫视,http://home.szjim.top:4000/udp/239.77.0.69:5146
 山西卫视,http://61.178.227.57:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://ds.shixd.cn:5957/udp/239.49.0.67:8528
 山西卫视,http://198980.xyz:8888/rtp/239.49.1.55:8000
@@ -281,7 +281,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 三沙卫视,http://123.112.247.10:5555/rtp/239.3.1.155:4120
 三沙卫视,http://117.64.102.133:4022/rtp/238.1.78.27:6144
 
-大湾区卫视,http://lsa.familyds.com:8188/udp/239.77.0.215:5146
+大湾区卫视,http://home.szjim.top:4000/udp/239.77.0.215:5146
 大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8
 大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
@@ -329,13 +329,13 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
 
-汕头1,http://lsa.familyds.com:8188/udp/239.253.43.45:5146
+汕头1,http://home.szjim.top:4000/udp/239.253.43.45:5146
 汕头1,http://218.13.148.152:5140/IPTV-广东地方台/汕头综合
-汕头1,http://home.szjim.top:4000/rtp/239.253.43.45:5146
+汕头1,http://14.145.155.3:14022/rtp/239.253.43.45:5146
 
-汕头2,http://lsa.familyds.com:8188/udp/239.253.43.46:5146
+汕头2,http://home.szjim.top:4000/udp/239.253.43.46:5146
 汕头2,http://218.13.148.152:5140/IPTV-广东地方台/汕头经济生活
-汕头2,http://home.szjim.top:4000/rtp/239.253.43.46:5146
+汕头2,http://14.145.155.3:14022/rtp/239.253.43.46:5146
 
 汕头3,
 汕头3,
