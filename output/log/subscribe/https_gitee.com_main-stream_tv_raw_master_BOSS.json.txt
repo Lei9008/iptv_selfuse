@@ -368,21 +368,21 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头3电信,
 
 
-揭阳综合高清,http://lsa.familyds.com:8188/udp/239.77.0.229:5146
-揭阳生活高清,http://lsa.familyds.com:8188/udp/239.77.0.251:5146
-汕尾综合高清,http://lsa.familyds.com:8188/udp/239.77.0.25:5146
-汕尾生活高清,http://lsa.familyds.com:8188/udp/239.77.0.187:5146
-潮州综合高清,http://lsa.familyds.com:8188/udp/239.253.43.70:5146
-潮州民生高清,http://lsa.familyds.com:8188/udp/239.253.43.75:5146
+揭阳综合高清,http://home.szjim.top:4000/udp/239.77.0.229:5146
+揭阳生活高清,http://home.szjim.top:4000/udp/239.77.0.251:5146
+汕尾综合高清,http://home.szjim.top:4000/udp/239.77.0.25:5146
+汕尾生活高清,http://home.szjim.top:4000/udp/239.77.0.187:5146
+潮州综合高清,http://home.szjim.top:4000/udp/239.253.43.70:5146
+潮州民生高清,http://home.szjim.top:4000/udp/239.253.43.75:5146
 
 
 凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
-凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 凤凰资讯,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
-凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
@@ -431,10 +431,10 @@ TVB星河台,http://rihou.cc:555/tv/[Pd]无线星河
 广东频道,#genre#
 
 广东珠江,http://115.190.252.60:26759/gd2/gd.php?id=gd-zj-1
-广东珠江,http://lsa.familyds.com:8188/rtp/239.77.0.1:5146
+广东珠江,http://home.szjim.top:4000/rtp/239.77.0.1:5146
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
-广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
+广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
 广东体育,http://rihou.cc:555/tv/[At|]广东体育
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,
@@ -442,7 +442,7 @@ TVB星河台,http://rihou.cc:555/tv/[Pd]无线星河
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,http://115.29.208.41:34567/gd.php?id=gzzh
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州影视,http://lsa.familyds.com:8188/udp/239.253.43.73:5146
+广州影视,http://home.szjim.top:4000/udp/239.253.43.73:5146
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -452,12 +452,12 @@ TVB星河台,http://rihou.cc:555/tv/[Pd]无线星河
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-佛山影视,http://lsa.familyds.com:8188/udp/239.253.43.56:5146
+佛山影视,http://home.szjim.top:4000/udp/239.253.43.56:5146
 佛山影视,http://8.137.59.151:3000/guangdong/foshan.php?id=fsys
 番禺电视,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 东莞综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 佛山综合,
-佛山公共,http://lsa.familyds.com:8188/udp/239.253.43.53:5146
-佛山顺德,http://lsa.familyds.com:8188/udp/239.253.43.55:5146
+佛山公共,http://home.szjim.top:4000/udp/239.253.43.53:5146
+佛山顺德,http://home.szjim.top:4000/udp/239.253.43.55:5146
 寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
