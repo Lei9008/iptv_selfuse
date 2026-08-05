@@ -315,6 +315,10 @@ https://live.chinacert.cftest5.cn/cnmg/live/923287211
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260720040231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20260720040231&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0c182b3d9097824d6e11ce6443a1a280&sv=10004&ct=android
 #EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV2.png" group-title="央视频道",CETV2
 http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260726040236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260726040236&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a587c600da1a48a6226e5008f8465f78&sv=10004&ct=android
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="./pic/logosCETV2.png" group-title="央视频道",CETV2
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="./pic/logosCETV2.png" group-title="央视频道",CETV2
+http://tv123.cc.cd/live.php?ch=2455&sid=700f4cedea8af059591520ea65b251f1&exp=1785859083&sig=b0c17944744ed38965c00242b9f65acc7763ddd2827ebe93c42fc9c83a9526cd
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道",CETV4
 http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=2026052216002214a2a85be2f141c480e1565a69bee0c3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260522160022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=159.75.12.57&SecurityKey=20260522160022&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b187375c43bfdd662eaf4469d1b57460&ddCalcu=0b61e482773530b715dc94634b4ffdade626
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道",CETV4
@@ -501,6 +505,8 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wsshenzhen
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="卫视频道",深圳卫视
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshenzhen
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="卫视频道",深圳卫视
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
 https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="卫视频道",东南卫视
@@ -655,6 +661,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226662/1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="./pic/logos甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsgansu
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="./pic/logos甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://hls.gstv.com.cn/9hvng2/5gd714.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=202605221600158c331db256324a289e2dd42c1e6cbdc9&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260522160015&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=159.75.12.57&SecurityKey=20260522160015&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=62b8805641b9f7a24e7673015152ba2e&ddCalcu=e622eab2b8328050155614013b796f77ea42
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
@@ -735,6 +743,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226700/1.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="./pic/logos新疆卫视.png" group-title="卫视频道",新疆卫视
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsxinjiang
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="./pic/logos新疆卫视.png" group-title="卫视频道",新疆卫视
+http://goo.bkpcp.top/mg/xjws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
@@ -837,6 +847,10 @@ https://live.chinacert.cftest5.cn/cnmg/live/961023778
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260723040352&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=171.8.79.254&SecurityKey=20260723040352&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=85a99d905bcf1e124c9a292bf0941431&sv=10004&ct=android
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260726040229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260726040229&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c4a8c402607bebbf7915077403d6c64b&sv=10004&ct=android
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="./pic/logos三沙卫视.png" group-title="卫视频道",三沙卫视
+https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=d0cf92081738063643
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="./pic/logos三沙卫视.png" group-title="卫视频道",三沙卫视
+http://tv123.cc.cd/live.php?ch=2401&sid=700f4cedea8af059591520ea65b251f1&exp=1785859083&sig=542084d2bdda2e026b17d1ff10f6233a9cd2453dfbd1b13e4447507e64263ba5
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 https://zby.130519.xyz/PLTV/11/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -939,6 +953,8 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/动漫秀场.png" group-title="动漫频道",动漫秀场
 https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="./pic/logos动漫秀场.png" group-title="动漫频道",动漫秀场
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="动漫频道",哈哈炫动
 http://nas.suntao.online:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/哈哈炫动.png" group-title="动漫频道",哈哈炫动
@@ -947,6 +963,8 @@ https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="./pic/logos哈哈炫动.png" group-title="动漫频道",哈哈炫动
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="./pic/logos哈哈炫动.png" group-title="动漫频道",哈哈炫动
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="动漫频道",优漫卡通
 http://3501776.xyz:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/优漫卡通.png" group-title="动漫频道",优漫卡通
@@ -1007,6 +1025,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="./pic/logos凤凰香港.png" group-title="港澳台频道",凤凰香港
 https://cdn6.cc.cd/163189/fhhk
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="./pic/logos凤凰卫视.png" group-title="港澳台频道",凤凰卫视
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台频道",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台频道",香港卫视
@@ -1037,9 +1057,23 @@ http://cdn6.163189.xyz/163189/fct4k
 https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="./pic/logosCHC动作电影.png" group-title="影视频道",CHC动作电影
 https://live.chinacert.cftest5.cn/cnmg/live/644368714
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="./pic/logosCHC动作电影.png" group-title="影视频道",CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="./pic/logosCHC动作电影.png" group-title="影视频道",CHC动作电影
+http://tv123.cc.cd/live.php?ch=2448&sid=700f4cedea8af059591520ea65b251f1&exp=1785859083&sig=54cdaa199052c927867764fc913006b97849ecff2355b0648d71188b699b9e77
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="./pic/logosCHC动作电影.png" group-title="影视频道",CHC动作电影
+http://fn.gcl.de5.net:5908/gsh950428/644368714
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="./pic/logosCHC动作电影.png" group-title="影视频道",CHC动作电影
+http://17752995.xyz:51111/644368714
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://goo.bkpcp.top/mg/jtyy
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="./pic/logosCHC家庭影院.png" group-title="影视频道",CHC家庭影院
 https://live.chinacert.cftest5.cn/cnmg/live/644368373
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="./pic/logosCHC家庭影院.png" group-title="影视频道",CHC家庭影院
+http://tv123.cc.cd/live.php?ch=2449&sid=700f4cedea8af059591520ea65b251f1&exp=1785859083&sig=2938fe9fbbcd3557242a4e3a83f4a6f4a594e3d49618899e1d8effd9bef7b54a
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="./pic/logosCHC家庭影院.png" group-title="影视频道",CHC家庭影院
+http://fn.gcl.de5.net:5908/gsh950428/644368373
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="./pic/logosCHC家庭影院.png" group-title="影视频道",CHC家庭影院
+http://17752995.xyz:51111/644368373
