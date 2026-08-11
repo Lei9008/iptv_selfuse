@@ -1,94 +1,95 @@
 央视频道,#genre#
 
-CCTV1综合,http://iptv.xxika.net:8188/rtp/239.77.1.17:5146
-CCTV1综合,https://cdn.qd.je/163189.php?id=cctv1
+CCTV1综合,http://lsa.familyds.com:8188/rtp/239.77.1.17:5146
+CCTV1综合,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV1综合,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8
 CCTV1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
 
-CCTV2财经,http://iptv.xxika.net:8188/rtp/239.77.1.158:5146
-CCTV2财经,https://cdn.qd.je/163189.php?id=cctv2
+CCTV2财经,http://lsa.familyds.com:8188/rtp/239.77.1.158:5146
+CCTV2财经,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV2财经,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
 CCTV2财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
 
-CCTV3综艺,http://iptv.xxika.net:8188/rtp/239.77.1.7:5146
-CCTV3综艺,https://cdn.qd.je/163189.php?id=cctv3
+CCTV3综艺,http://lsa.familyds.com:8188/rtp/239.77.1.7:5146
+CCTV3综艺,http://192.151.150.154/live/cctv3hd.m3u8
 CCTV3综艺,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8
 CCTV3综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8
 
-CCTV4中文国际,http://iptv.xxika.net:8188/rtp/239.77.1.163:5146
-CCTV4中文国际,https://cdn.qd.je/163189.php?id=cctv4
+CCTV4中文国际,http://lsa.familyds.com:8188/rtp/239.77.1.163:5146
+CCTV4中文国际,http://192.151.150.154/live/cctv4hd.m3u8
 CCTV4中文国际,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8
 CCTV4中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8
 
-CCTV5体育,http://iptv.xxika.net:8188/rtp/239.77.1.8:5146
-CCTV5体育,https://cdn.qd.je/163189.php?id=cctv5
+CCTV5体育,http://lsa.familyds.com:8188/rtp/239.77.1.8:5146
+CCTV5体育,http://192.151.150.154/live/cctv5hd.m3u8
 CCTV5体育,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
 CCTV5体育,http://218.13.148.152:5140/IPTV-央视/CCTV-5
 
-CCTV6电影,http://iptv.xxika.net:8188/rtp/239.77.1.9:5146
-CCTV6电影,https://cdn.qd.je/163189.php?id=cctv6
+CCTV6电影,http://lsa.familyds.com:8188/rtp/239.77.1.9:5146
+CCTV6电影,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV6电影,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6
 CCTV6电影,http://173.208.212.130:8181/1080p/cctv6.m3u8
 
-CCTV7军农,http://iptv.xxika.net:8188/rtp/239.77.1.159:5146
-CCTV7军农,https://cdn.qd.je/163189.php?id=cctv7
+CCTV7军农,http://lsa.familyds.com:8188/rtp/239.77.1.159:5146
+CCTV7军农,http://192.151.150.154/live/cctv7hd.m3u8
 CCTV7军农,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
 CCTV7军农,http://173.208.212.130:8181/1080p/cctv7.m3u8
 
-CCTV8电视剧,http://iptv.xxika.net:8188/rtp/239.77.1.10:5146
-CCTV8电视剧,https://cdn.qd.je/163189.php?id=cctv8
+CCTV8电视剧,http://lsa.familyds.com:8188/rtp/239.77.1.10:5146
+CCTV8电视剧,http://192.151.150.154/live/cctv8hd.m3u8
 CCTV8电视剧,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8
 CCTV8电视剧,http://173.208.212.130:8181/1080p/cctv8.m3u8
 
-CCTV9纪录,http://iptv.xxika.net:8188/rtp/239.77.1.160:5146
-CCTV9纪录,https://cdn.qd.je/163189.php?id=cctv9
+CCTV9纪录,http://lsa.familyds.com:8188/rtp/239.77.1.160:5146
+CCTV9纪录,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV9纪录,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
 CCTV9纪录,http://173.208.212.130:8181/1080p/cctv9.m3u8
 
-CCTV10科教,http://iptv.xxika.net:8188/rtp/239.77.1.113:5146
-CCTV10科教,https://cdn.qd.je/163189.php?id=cctv10
+CCTV10科教,http://lsa.familyds.com:8188/rtp/239.77.1.113:5146
+CCTV10科教,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV10科教,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
 CCTV10科教,http://173.208.212.130:8181/1080p/cctv10.m3u8
 
-CCTV11戏曲,http://iptv.xxika.net:8188/rtp/239.77.1.108:5146
-CCTV11戏曲,https://cdn.qd.je/163189.php?id=cctv11
+CCTV11戏曲,http://lsa.familyds.com:8188/rtp/239.77.1.108:5146
+CCTV11戏曲,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV11戏曲,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8
 CCTV11戏曲,http://173.208.212.130:8181/1080p/cctv11.m3u8
 
-CCTV12,http://iptv.xxika.net:8188/rtp/239.77.1.109:5146
-CCTV12,https://cdn.qd.je/163189.php?id=cctv12
+CCTV12,http://lsa.familyds.com:8188/rtp/239.77.1.109:5146
+CCTV12,http://192.151.150.154/live/cctv12hd.m3u8
 CCTV12,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
 CCTV12,http://173.208.212.130:8181/1080p/cctv12.m3u8
 
-CCTV13新闻,http://iptv.xxika.net:8188/rtp/239.253.43.196:5146
-CCTV13新闻,https://cdn.qd.je/163189.php?id=cctv13
+CCTV13新闻,http://lsa.familyds.com:8188/rtp/239.253.43.196:5146
+CCTV13新闻,http://192.151.150.154/live/cctv13hd.m3u8
 CCTV13新闻,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
 CCTV13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
 
-CCTV14少儿,http://iptv.xxika.net:8188/rtp/239.77.1.161:5146
-CCTV14少儿,https://cdn.qd.je/163189.php?id=cctv14
+CCTV14少儿,http://lsa.familyds.com:8188/rtp/239.77.1.161:5146
+CCTV14少儿,http://192.151.150.154/live/cctv14hd.m3u8
 CCTV14少儿,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14
 CCTV14少儿,http://173.208.212.130:8181/1080p/cctv14.m3u8
 
-CCTV15音乐,http://iptv.xxika.net:8188/rtp/239.77.1.120:5146
-CCTV15音乐,https://cdn.qd.je/163189.php?id=cctv15
+CCTV15音乐,http://lsa.familyds.com:8188/rtp/239.77.1.120:5146
+CCTV15音乐,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV15音乐,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
 CCTV15音乐,http://173.208.212.130:8181/1080p/cctv15.m3u8
 
-CCTV16,http://iptv.xxika.net:8188/rtp/239.77.0.165:5146
-CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV16,http://lsa.familyds.com:8188/rtp/239.77.0.165:5146
+CCTV16,http://192.151.150.154/live/cctv16hd.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://173.208.212.130:8181/1080p/cctv16.m3u8
 
-CCTV17,http://iptv.xxika.net:8188/rtp/239.77.1.121:5146
-CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV17,http://lsa.familyds.com:8188/rtp/239.77.1.121:5146
+CCTV17,http://192.151.150.154/live/cctv17hd.m3u8
 CCTV17,https://cdn.qd.je/163189.php?id=cctv17
 CCTV17,http://173.208.212.130:8181/1080p/cctv17.m3u8
 
-CCTV5+,http://iptv.xxika.net:8188/rtp/239.77.1.31:5146
-CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
+CCTV5+,http://lsa.familyds.com:8188/rtp/239.77.1.31:5146
+CCTV5+,http://192.151.150.154/live/cctv5p.m3u8
 CCTV5+,http://47.100.80.251:50001/641886773
 CCTV5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
+
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -330,11 +331,11 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
 
 汕头1,http://home.szjim.top:4000/udp/239.253.43.45:5146
-汕头1,http://218.13.148.152:5140/IPTV-广东地方台/汕头综合
+汕头1,http://lbyjlt.vv5678.cn:8880/udp/239.253.43.45:5146
 汕头1,http://14.145.155.3:14022/rtp/239.253.43.45:5146
 
 汕头2,http://home.szjim.top:4000/udp/239.253.43.46:5146
-汕头2,http://218.13.148.152:5140/IPTV-广东地方台/汕头经济生活
+汕头2,http://lbyjlt.vv5678.cn:8880/udp/239.253.43.46:5146
 汕头2,http://14.145.155.3:14022/rtp/239.253.43.46:5146
 
 汕头3,
@@ -348,8 +349,8 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头2HD,http://218.13.148.152:5140/IPTV-广东地方台/汕头经济生活
 汕头3HD,http://ikuai.cyruslee.top:8888/udp/239.253.43.45:5146
 
-汕头1HD,http://183.7.150.13:5140/广东/汕头新闻综合
-汕头2HD,http://183.7.150.13:5140/广东/汕头经济生活
+汕头1HD,http://www.maomizi.cn:9527/udp/239.253.43.45:5146
+汕头2HD,http://www.maomizi.cn:9527/udp/239.253.43.46:5146
 汕头3HD,http://113.86.204.79:9999/udp/239.253.43.47:5146
 
 电信
