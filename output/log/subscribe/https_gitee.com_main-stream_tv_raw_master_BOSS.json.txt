@@ -1,95 +1,94 @@
 央视频道,#genre#
 
-CCTV1综合,http://vpn.jk960.cn:8686/rtp/239.77.1.17:5146
-CCTV1综合,http://192.151.150.154/live/cctv1hd.m3u8
-CCTV1综合,http://go.bkpcp.top/mg/cctv1
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV1综合,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV1综合,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
 
-CCTV2财经,http://vpn.jk960.cn:8686/rtp/239.77.1.158:5146
-CCTV2财经,http://192.151.150.154/live/cctv2hd.m3u8
-CCTV2财经,http://go.bkpcp.top/mg/cctv2
+CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV2财经,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+CCTV2财经,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV2财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
 
-CCTV3综艺,http://vpn.jk960.cn:8686/rtp/239.77.1.7:5146
-CCTV3综艺,http://192.151.150.154/live/cctv3hd.m3u8
-CCTV3综艺,http://go.bkpcp.top/mg/cctv3
+CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV3综艺,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+CCTV3综艺,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV3综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8
 
-CCTV4中文国际,http://vpn.jk960.cn:8686/rtp/239.77.1.163:5146
-CCTV4中文国际,http://192.151.150.154/live/cctv4hd.m3u8
-CCTV4中文国际,http://go.bkpcp.top/mg/cctv4
+CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV4中文国际,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+CCTV4中文国际,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV4中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8
 
-CCTV5体育,http://vpn.jk960.cn:8686/rtp/239.77.1.8:5146
-CCTV5体育,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV5体育,http://go.bkpcp.top/mg/cctv5
+CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5体育,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+CCTV5体育,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5体育,http://218.13.148.152:5140/IPTV-央视/CCTV-5
 
-CCTV6电影,http://vpn.jk960.cn:8686/rtp/239.77.1.9:5146
-CCTV6电影,http://192.151.150.154/live/cctv6hd.m3u8
-CCTV6电影,http://go.bkpcp.top/mg/cctv6
+CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV6电影,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+CCTV6电影,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV6电影,http://173.208.212.130:8181/1080p/cctv6.m3u8
 
-CCTV7军农,http://vpn.jk960.cn:8686/rtp/239.77.1.159:5146
-CCTV7军农,http://192.151.150.154/live/cctv7hd.m3u8
-CCTV7军农,http://go.bkpcp.top/mg/cctv7
+CCTV7军农,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV7军农,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+CCTV7军农,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV7军农,http://173.208.212.130:8181/1080p/cctv7.m3u8
 
-CCTV8电视剧,http://vpn.jk960.cn:8686/rtp/239.77.1.10:5146
-CCTV8电视剧,http://192.151.150.154/live/cctv8hd.m3u8
-CCTV8电视剧,http://go.bkpcp.top/mg/cctv8
+CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV8电视剧,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV8电视剧,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV8电视剧,http://173.208.212.130:8181/1080p/cctv8.m3u8
 
-CCTV9纪录,http://vpn.jk960.cn:8686/rtp/239.77.1.160:5146
-CCTV9纪录,http://192.151.150.154/live/cctv9hd.m3u8
-CCTV9纪录,http://go.bkpcp.top/mg/cctv9
+CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV9纪录,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+CCTV9纪录,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV9纪录,http://173.208.212.130:8181/1080p/cctv9.m3u8
 
-CCTV10科教,http://vpn.jk960.cn:8686/rtp/239.77.1.113:5146
-CCTV10科教,http://192.151.150.154/live/cctv10hd.m3u8
-CCTV10科教,http://go.bkpcp.top/mg/cctv10
+CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV10科教,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+CCTV10科教,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV10科教,http://173.208.212.130:8181/1080p/cctv10.m3u8
 
-CCTV11戏曲,http://vpn.jk960.cn:8686/rtp/239.77.1.108:5146
-CCTV11戏曲,http://192.151.150.154/live/cctv11hd.m3u8
-CCTV11戏曲,http://go.bkpcp.top/mg/cctv11
+CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV11戏曲,http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+CCTV11戏曲,http://107.150.60.122/live/cctv11hd.m3u8
 CCTV11戏曲,http://173.208.212.130:8181/1080p/cctv11.m3u8
 
-CCTV12,http://vpn.jk960.cn:8686/rtp/239.77.1.109:5146
-CCTV12,http://192.151.150.154/live/cctv12hd.m3u8
-CCTV12,http://go.bkpcp.top/mg/cctv12
+CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV12,http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV12,http://173.208.212.130:8181/1080p/cctv12.m3u8
 
-CCTV13新闻,http://vpn.jk960.cn:8686/rtp/239.253.43.196:5146
-CCTV13新闻,http://192.151.150.154/live/cctv13hd.m3u8
-CCTV13新闻,http://go.bkpcp.top/mg/cctv13
+CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV13新闻,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+CCTV13新闻,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
 
-CCTV14少儿,http://vpn.jk960.cn:8686/rtp/239.77.1.161:5146
-CCTV14少儿,http://192.151.150.154/live/cctv14hd.m3u8
-CCTV14少儿,http://go.bkpcp.top/mg/cctv14
+CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV14少儿,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+CCTV14少儿,,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV14少儿,http://173.208.212.130:8181/1080p/cctv14.m3u8
 
-CCTV15音乐,http://vpn.jk960.cn:8686/rtp/239.77.1.120:5146
-CCTV15音乐,http://192.151.150.154/live/cctv15hd.m3u8
-CCTV15音乐,http://go.bkpcp.top/mg/cctv15
+CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV15音乐,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+CCTV15音乐,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV15音乐,http://173.208.212.130:8181/1080p/cctv15.m3u8
 
-CCTV16,http://lsa.familyds.com:8188/rtp/239.77.0.165:5146
-CCTV16,http://vpn.jk960.cn:8686/rtp/239.77.0.165:5146
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://173.208.212.130:8181/1080p/cctv16.m3u8
 
-CCTV17,http://vpn.jk960.cn:8686/rtp/239.77.1.121:5146
-CCTV17,http://192.151.150.154/live/cctv17hd.m3u8
-CCTV17,http://go.bkpcp.top/mg/cctv17
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
+CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV17,http://173.208.212.130:8181/1080p/cctv17.m3u8
 
-CCTV5+,http://vpn.jk960.cn:8686/rtp/239.77.1.31:5146
-CCTV5+,http://192.151.150.154/live/cctv5p.m3u8
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
-
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -113,82 +112,82 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 卫视频道,#genre#
 
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-湖南卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.88:5146
+湖南卫视,http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
-浙江卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.89:5146
+浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://111.8.242.102:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
-江苏卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=jsws&zy.m3u8
+江苏卫视,http://bztv.tvbus.cc:8081/cdnlive/jsws.m3u8
 江苏卫视,http://go.bkpcp.top/mg/jsws$咪咕源
 江苏卫视,http://222.86.15.171:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
-安徽卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.183:5146
+安徽卫视,http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
 安徽卫视,http://go.bkpcp.top/mg/ahws 
 安徽卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.183:5146
 
 北京卫视,http://192.151.150.154/live/bjwshd.m3u8
-北京卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.91:5146
+北京卫视,http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1749227137&sign=ea5bcf63d1a1e8ae634f83b70186337f
 北京卫视,http://222.86.15.171:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 
 天津卫视,http://192.151.150.154/live/tjwshd.m3u8
-天津卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.131:5146
+天津卫视,http://bztv.tvbus.cc:8081/cdnlive/tjws.m3u8
 天津卫视,http://k.061899.xyz/m.php?id=tjws 
 天津卫视,http://222.86.15.171:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
-辽宁卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.103:5146
+辽宁卫视,http://bztv.tvbus.cc:8081/cdnlive/tjws.m3u8
 辽宁卫视,http://go.bkpcp.top/mg/lnws$咪咕源
 辽宁卫视,http://222.86.15.171:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 
 山东卫视,http://192.151.150.154/live/snwshd.m3u8
-山东卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.94:5146
+山东卫视,http://bztv.tvbus.cc:8081/cdnlive/sdws.m3u8
 山东卫视,http://go.bkpcp.top/mg/sdws$咪咕源
 山东卫视,http://222.86.15.171:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
-黑龙江卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.93:5146
+黑龙江卫视,http://bztv.tvbus.cc:8081/cdnlive/hljws.m3u8
 黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
 黑龙江卫视,http://222.86.15.171:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-深圳卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.189:5146
+深圳卫视,http://bztv.tvbus.cc:8081/cdnlive/szws.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
 深圳卫视,http://198980.xyz:8888/rtp/239.49.8.145:6000
 
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-湖北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.95:5146
+湖北卫视,http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8
 湖北卫视,http://go.bkpcp.top/mg/hubws$咪咕源
 湖北卫视,http://222.86.15.171:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
-河北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.148:5146
+河北卫视,http://bztv.tvbus.cc:8081/cdnlive/hews.m3u8
 河北卫视,http://k.061899.xyz/m.php?id=hbws 
 河北卫视,http://198980.xyz:8888/rtp/239.49.8.114:8000
 
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
-贵州卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.230:5146
+贵州卫视,http://bztv.tvbus.cc:8081/cdnlive/gzws.m3u8
 贵州卫视,http://go.bkpcp.top/mg/gzws$咪咕源
 贵州卫视,http://222.86.15.171:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 东南卫视,http://192.151.150.154/live/dnwshd.m3u8
-东南卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.146:5146
+东南卫视,http://bztv.tvbus.cc:8081/cdnlive/dnws.m3u8
 东南卫视,http://go.bkpcp.top/mg/dnws$咪咕源
 东南卫视,http://198980.xyz:8888/rtp/239.49.8.112:8000
 
 广东卫视,http://192.151.150.154/live/gdwshd.m3u8
-广东卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.84:5146
+广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 广东卫视,http://go.bkpcp.top/mg/gdws$咪咕源
 广东卫视,http://222.86.15.171:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 
 青海卫视,http://192.151.150.154/live/qhws.m3u8
-青海卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.70:5146
+青海卫视,http://bztv.tvbus.cc:8081/cdnlive/qhws.m3u8
 青海卫视,http://go.bkpcp.top/mg/qhws$咪咕源
 青海卫视,http://198980.xyz:8888/rtp/239.49.0.81:8000
 
@@ -198,52 +197,52 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 西藏卫视,http://198980.xyz:8888/rtp/239.49.1.56:8000
 
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
-内蒙古卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.70:5146
+内蒙古卫视,http://bztv.tvbus.cc:8081/cdnlive/nmgws.m3u8
 内蒙古卫视,http://go.bkpcp.top/mg/nmws$咪咕源
 内蒙古卫视,http://119.91.7.169:2026/ysws.php?id=内蒙古卫视
 
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
-新疆卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.47:5146
+新疆卫视,http://bztv.tvbus.cc:8081/cdnlive/xjws.m3u8
 新疆卫视,http://go.bkpcp.top/mg/xjws$咪咕源
 新疆卫视,http://198980.xyz:8888/rtp/239.49.1.57:8000
 
 兵团卫视,http://192.151.150.154/live/btws.m3u8
-兵团卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.48:5146
+兵团卫视,http://bztv.tvbus.cc:8081/cdnlive/btws.m3u8
 兵团卫视,http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://198980.xyz:8888/rtp/239.49.1.58:8000
 
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
-甘肃卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.189:5146
+甘肃卫视,http://bztv.tvbus.cc:8081/cdnlive/gsws.m3u8
 甘肃卫视,http://go.bkpcp.top/mg/gsws$咪咕源
 甘肃卫视,http://198980.xyz:8888/rtp://239.49.0.250:8000
 
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
-宁夏卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.49:5146
+宁夏卫视,http://bztv.tvbus.cc:8081/cdnlive/nxws.m3u8
 宁夏卫视,http://go.bkpcp.top/mg/nxws$咪咕源
 宁夏卫视,http://198980.xyz:8888/rtp://239.49.1.60:8000
 
 广西卫视,http://192.151.150.154/live/gxwshd.m3u8
-广西卫视,http://115.29.208.41:34567/gd.php?id=gxws&kl=www.9kds.com
+广西卫视,http://bztv.tvbus.cc:8081/cdnlive/gxws.m3u8
 广西卫视,http://go.bkpcp.top/mg/gxws$咪咕源
 广西卫视,http://198980.xyz:8888/rtp/239.49.8.10:8000
 
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
-四川卫视,http://115.29.208.41:34567/gd.php?id=scws&kl=www.9kds.com
+四川卫视,http://bztv.tvbus.cc:8081/cdnlive/scws.m3u8
 四川卫视,http://go.bkpcp.top/mg/scws$咪咕源
 四川卫视,http://198980.xyz:8888/rtp/239.49.8.110:8000
 
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
-东方卫视,http://115.29.208.41:34567/gd.php?id=dfws&kl=www.9kds.com
+东方卫视,http://bztv.tvbus.cc:8081/cdnlive/dfws.m3u8
 东方卫视,http://go.bkpcp.top/mg/dfws$咪咕源
 东方卫视,http://198980.xyz:8888/rtp/239.49.8.140:6000
 
 吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
-吉林卫视,http://61.178.227.57:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://bztv.tvbus.cc:8081/cdnlive/jlws.m3u8
 吉林卫视,http://go.bkpcp.top/mg/jlws$咪咕源
 吉林卫视,http://198980.xyz:8888/rtp/239.49.8.113:8000
 
 江西卫视,http://192.151.150.154/live/jxwshd.m3u8
-江西卫视,http://115.29.208.41:34567/gd.php?id=jxws&kl=www.9kds.com
+江西卫视,http://bztv.tvbus.cc:8081/cdnlive/jxws.m3u8
 江西卫视,http://go.bkpcp.top/mg/jxws$咪咕源
 江西卫视,http://198980.xyz:8888/rtp/239.49.8.111:8000
 
@@ -253,12 +252,12 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 河南卫视,http://198980.xyz:8888/rtp/239.49.8.29:8000
 
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
-重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
 重庆卫视,http://59.188.94.126:35455/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://198980.xyz:8888/rtp/239.49.8.149:6000
 
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
-云南卫视,http://115.29.208.41:34567/gd.php?id=ynws&kl=www.9kds.com
+云南卫视,http://bztv.tvbus.cc:8081/cdnlive/ynws.m3u8
 云南卫视,http://go.bkpcp.top/mg/ynws$咪咕源
 云南卫视,http://198980.xyz:8888/rtp/239.49.0.177:8000
 
@@ -268,24 +267,25 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 海南卫视,http://198980.xyz:8888/rtp/239.49.8.83:8000
 
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
-山西卫视,http://61.178.227.57:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://bztv.tvbus.cc:8081/cdnlive/sxws.m3u8
 山西卫视,http://ds.shixd.cn:5957/udp/239.49.0.67:8528
 山西卫视,http://198980.xyz:8888/rtp/239.49.1.55:8000
 
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
-陕西卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.54:5146
+陕西卫视,http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8
 陕西卫视,http://go.bkpcp.top/mg/sxws$咪咕源
 陕西卫视,http://119.91.7.169:2026/ysws.php?id=陕西卫视
 
 三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=b0f97355568c17a6d1ca3a67795ee670&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 三沙卫视,http://192.151.150.154/live/ssws.m3u8
-三沙卫视,http://123.112.247.10:5555/rtp/239.3.1.155:4120
+三沙卫视,http://bztv.tvbus.cc:8081/cdnlive/ssws.m3u8
 三沙卫视,http://117.64.102.133:4022/rtp/238.1.78.27:6144
 
 大湾区卫视,http://192.151.150.154/live/nfws.m3u8
-大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8
+大湾区卫视,http://bztv.tvbus.cc:8081/cdnlive/nfws.m3u8
 大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
+
 
 
 
@@ -378,11 +378,11 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 
 
 
-凤凰中文,http://yaofuming.top:8188/rtp/239.94.2.51:5140
+凤凰中文,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140
 凤凰中文,http://ikuai.hanxiaowang.win:3344/udp/239.69.2.20:11274
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 
-凤凰资讯,http://yaofuming.top:8188/rtp/239.94.2.49:5140
+凤凰资讯,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140
 凤凰资讯,http://ikuai.hanxiaowang.win:3344/udp/239.69.2.19:11268
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
 

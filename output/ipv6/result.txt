@@ -510,6 +510,7 @@ CCTV-14,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cctv14hd265/54/20200
 甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+浙江少儿,https://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
 卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 卡酷少儿,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
