@@ -330,11 +330,11 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
 
-汕头1,http://ysf620.f3322.net:8889/udp/239.253.43.45:5146
+汕头1,http://audios.guangyuan.site:8188/udp/239.253.43.45:5146
 汕头1,http://audios.guangyuan.site:8188/udp/239.253.43.45:5146
 汕头1,https://sttv-hls.strtv.cn/lKGXIQa/500/s5sgKgX.m3u8?sign=358ed4f2057e125f17e1f0ca4cf2f1f9&t=6a97d5a8
 
-汕头2,http://ysf620.f3322.net:8889/udp/239.253.43.46:5146
+汕头2,http://audios.guangyuan.site:8188/udp/239.253.43.46:5146
 汕头2,http://audios.guangyuan.site:8188/udp/239.253.43.46:5146
 汕头2,http://xiangz.qzz.io:8031/php/shantou.php?id=st2
 
