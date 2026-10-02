@@ -21,7 +21,7 @@ CCTV4中文国际,http://rihou.cc:555/tv/[mg]CCTV-04
 CCTV4中文国际,http://j.s.bkpcp.top/jj/cctv4
 
 CCTV5体育,http://110.72.80.62:808/hls/38/index.m3u8
-CCTV5体育,http://183.51.190.123:6633/rtp/239.77.0.170:5146
+CCTV5体育,http://173.208.234.146/live/cctv5.m3u8?zbj
 CCTV5体育,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5体育,http://j.s.bkpcp.top/jj/cctv5
 
