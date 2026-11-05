@@ -508,6 +508,10 @@ CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-14,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cctv14hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260716080254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=171.8.79.254&SecurityKey=20260716080254&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ebd8d068b0e4e4d64a55e22fa63110d3&sv=10004&ct=android
 河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+广东少儿,http://jiange.dns.navy:10001/udp/239.77.0.250:5146
+广东少儿,http://www.3344.uk:8888/udp/239.77.0.250:5146
+广东少儿,http://ruoshui.uno:30001/udp/239.77.0.250:5146
+广东少儿,http://bot22.top:19999/udp/239.77.0.250:5146
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
